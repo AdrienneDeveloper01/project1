@@ -1,0 +1,24 @@
+html{
+    background-color: aqua;
+}
+
+.navbar{
+    border-style: outset;
+   background-color: rgb(77, 77, 186);
+    color: aliceblue;
+    padding: auto;
+    margin: auto;
+
+}
+
+.navbar:hover{
+background-color: rgb(15, 251, 239);
+}
+#picture{
+    width: auto;
+    padding: auto;
+    margin: 0px 0px 0px 0px;
+    height: auto;
+    box-align:center;
+}
+
